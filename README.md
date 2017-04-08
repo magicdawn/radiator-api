@@ -1,4 +1,6 @@
 # radiator-api
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/magicdawn/radiator-api.svg)](https://greenkeeper.io/)
 > 
 
 [![Build Status](https://img.shields.io/travis/magicdawn/radiator-api.svg?style=flat-square)](https://travis-ci.org/magicdawn/radiator-api)
