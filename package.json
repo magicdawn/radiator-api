@@ -20,7 +20,7 @@
   "homepage": "https://github.com/magicdawn/radiator-api#readme",
   "dependencies": {
     "impress-router": "^1.4.0",
-    "impress-router-table": "^0.0.4",
+    "impress-router-table": "^0.1.1",
     "koa": "^2.0.0",
     "koa-conditional-get": "^2.0.0",
     "koa-etag": "^3.0.0",
@@ -30,7 +30,7 @@
     "koa-static": "^3.0.0"
   },
   "devDependencies": {
-    "codecov": "^1.0.1",
+    "codecov": "^2.1.0",
     "eslint": "^3.10.0",
     "mocha": "^3.1.2",
     "co-mocha": "^1.2.0",
